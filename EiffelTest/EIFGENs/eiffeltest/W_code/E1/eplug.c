@@ -115,7 +115,7 @@ void egc_init_plug (void)
 	egc_forg_table = egc_forg_table_init;
 
 	egc_system_name = "eiffeltest";
-	egc_system_location = "C:\\Users\\Admin\\Documents\\GitHub\\testRepo\\EiffelTest\\EIFGENs\\eiffeltest\\W_code";
+	egc_system_location = "C:\\Users\\Admin\\Documents\\testRepo\\EiffelTest\\EIFGENs\\eiffeltest\\W_code";
 	egc_compiler_tag = 38;
 	egc_project_version = 1447264265;
 	egc_has_old_special_semantic = 0;
