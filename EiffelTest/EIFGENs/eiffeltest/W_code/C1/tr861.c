@@ -61,7 +61,7 @@ void F861_6968 (EIF_REFERENCE Current)
 	RTDBGEAA(860, Current, 12649);
 	RTIV(Current, RTAL);
 	RTHOOK(1);
-	tr1 = RTMS_EX_H("Hello to Myself! #LonerTest\012",28,391799050);
+	tr1 = RTMS_EX_H("Hello to Oli I Say Olaf! #LonerTest\012",36,298070794);
 	ur1 = tr1;
 	(FUNCTION_CAST(void, (EIF_REFERENCE, EIF_TYPED_VALUE)) RTWF(30, Dtype(Current)))(Current, ur1x);
 	RTVI(Current, RTAL);

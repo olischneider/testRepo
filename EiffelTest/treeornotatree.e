@@ -18,7 +18,7 @@ feature {NONE} -- Initialization
 			-- Run application.
 		do
 			--| Add your code here
-			print ("Hello to Myself! #LonerTest%N")
+			print ("Hello to Oli I Say Olaf Juhuuuuheeee! #LonerTest%N")
 		end
 
 end
